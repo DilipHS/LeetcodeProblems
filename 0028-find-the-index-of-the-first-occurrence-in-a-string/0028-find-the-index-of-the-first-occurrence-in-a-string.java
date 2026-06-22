@@ -9,7 +9,7 @@ class Solution {
             String sub = "";
 
             for (int j = i; j < i + m; j++) {
-                sub += haystack.charAt(j); // slow string building
+                sub += haystack.charAt(j);
             }
 
             if (sub.equals(needle)) {
