@@ -4,12 +4,10 @@ class Solution {
         int i = s.length() - 1;
         int length = 0;
 
-        // skip trailing spaces
         while (i >= 0 && s.charAt(i) == ' ') {
             i--;
         }
 
-        // count last word
         while (i >= 0 && s.charAt(i) != ' ') {
             length++;
             i--;
