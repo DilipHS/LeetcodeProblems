@@ -72,12 +72,14 @@ Each problem folder contains:
 | [0066-plus-one](https://github.com/DilipHS/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DilipHS/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/DilipHS/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/DilipHS/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DilipHS/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DilipHS/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/DilipHS/LeetcodeProblems/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/DilipHS/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Each problem folder contains:
 | [0067-add-binary](https://github.com/DilipHS/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DilipHS/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/DilipHS/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/DilipHS/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -123,6 +126,7 @@ Each problem folder contains:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DilipHS/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/DilipHS/LeetcodeProblems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/DilipHS/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,6 +165,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DilipHS/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/DilipHS/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -173,4 +178,5 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DilipHS/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/DilipHS/LeetcodeProblems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
