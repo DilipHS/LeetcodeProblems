@@ -101,6 +101,7 @@ Each problem folder contains:
 | [0012-integer-to-roman](https://github.com/DilipHS/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/DilipHS/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DilipHS/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DilipHS/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Each problem folder contains:
 | [0005-longest-palindromic-substring](https://github.com/DilipHS/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DilipHS/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DilipHS/LeetcodeProblems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DilipHS/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,4 +133,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DilipHS/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DilipHS/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
