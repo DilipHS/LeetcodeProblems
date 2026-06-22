@@ -64,6 +64,7 @@ Each problem folder contains:
 | ------- |
 | [0001-two-sum](https://github.com/DilipHS/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DilipHS/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/DilipHS/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Each problem folder contains:
 | [0005-longest-palindromic-substring](https://github.com/DilipHS/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/DilipHS/LeetcodeProblems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/DilipHS/LeetcodeProblems/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/DilipHS/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,4 +114,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DilipHS/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DilipHS/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
