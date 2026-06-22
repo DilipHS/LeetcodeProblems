@@ -91,6 +91,7 @@ Each problem folder contains:
 | [0012-integer-to-roman](https://github.com/DilipHS/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/DilipHS/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DilipHS/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/DilipHS/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DilipHS/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/DilipHS/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
 | ------- |
@@ -157,4 +159,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DilipHS/LeetcodeProblems/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DilipHS/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
