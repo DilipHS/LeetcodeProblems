@@ -94,6 +94,7 @@ Each problem folder contains:
 | [0006-zigzag-conversion](https://github.com/DilipHS/LeetcodeProblems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/DilipHS/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/DilipHS/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/DilipHS/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,4 +119,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DilipHS/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DilipHS/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
