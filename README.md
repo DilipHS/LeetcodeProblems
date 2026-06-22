@@ -68,6 +68,7 @@ Each problem folder contains:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DilipHS/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DilipHS/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DilipHS/LeetcodeProblems/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/DilipHS/LeetcodeProblems/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,4 +140,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DilipHS/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/DilipHS/LeetcodeProblems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
