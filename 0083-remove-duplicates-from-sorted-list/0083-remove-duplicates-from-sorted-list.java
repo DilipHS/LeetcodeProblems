@@ -10,7 +10,7 @@ class Solution {
             while (runner.next != null) {
 
                 if (runner.next.val == current.val) {
-                    runner.next = runner.next.next; // remove duplicate
+                    runner.next = runner.next.next; 
                 } else {
                     runner = runner.next;
                 }
