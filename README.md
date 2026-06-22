@@ -69,6 +69,7 @@ Each problem folder contains:
 | [0027-remove-element](https://github.com/DilipHS/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DilipHS/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/DilipHS/LeetcodeProblems/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/DilipHS/LeetcodeProblems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Each problem folder contains:
 | [0007-reverse-integer](https://github.com/DilipHS/LeetcodeProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DilipHS/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DilipHS/LeetcodeProblems/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/DilipHS/LeetcodeProblems/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
