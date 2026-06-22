@@ -179,4 +179,16 @@ Each problem folder contains:
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DilipHS/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/DilipHS/LeetcodeProblems/tree/master/0268-missing-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DilipHS/LeetcodeProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DilipHS/LeetcodeProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DilipHS/LeetcodeProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
