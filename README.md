@@ -75,6 +75,7 @@ Each problem folder contains:
 | [0268-missing-number](https://github.com/DilipHS/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/DilipHS/LeetcodeProblems/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/DilipHS/LeetcodeProblems/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/DilipHS/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Each problem folder contains:
 | ------- |
 | [0067-add-binary](https://github.com/DilipHS/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/DilipHS/LeetcodeProblems/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/DilipHS/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [3174-clear-digits](https://github.com/DilipHS/LeetcodeProblems/tree/master/3174-clear-digits) |
 ## Memoization
 |  |
@@ -210,4 +212,5 @@ Each problem folder contains:
 | ------- |
 | [0463-island-perimeter](https://github.com/DilipHS/LeetcodeProblems/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/DilipHS/LeetcodeProblems/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/DilipHS/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
