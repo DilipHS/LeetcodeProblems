@@ -73,6 +73,7 @@ Each problem folder contains:
 | [0088-merge-sorted-array](https://github.com/DilipHS/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/DilipHS/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DilipHS/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0463-island-perimeter](https://github.com/DilipHS/LeetcodeProblems/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,4 +195,16 @@ Each problem folder contains:
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DilipHS/LeetcodeProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/DilipHS/LeetcodeProblems/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/DilipHS/LeetcodeProblems/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/DilipHS/LeetcodeProblems/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
